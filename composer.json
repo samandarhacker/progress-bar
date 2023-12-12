@@ -1,5 +1,5 @@
 {
-    "name": "iprogrammer/progress-bar",
+    "name": "iprogrammer/progress",
     "description": "Progress bar",
     "autoload": {
         "psr-4": {
